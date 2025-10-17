@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋,  I'm Azaan Fatta </h1>
+<h1 align="center">Hey there 👋  I'm Azaan Fatta </h1>
 <h3 align="center">🚀 Computer Science @ Florida Atlantic University | Former SWE Intern @ World Kinect Corporation | AI Enthusiast</h3>
 
 <!-- <p align="center">
