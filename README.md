@@ -54,13 +54,14 @@
 ---
 
 ### 🧩 Projects
+
+🎬 **[Full Stack AI-Driven Movie Matching Application (Angular + Spring Boot)](https://github.com/AzaanFatta/Full-Stack-AI-Driven-Movie-Matching-Application)**  
+A full-stack movie recommendation engine powered by **AI/NLP** and **RESTful APIs**.  
+> 🌐 Tech: Java, Spring Boot, MySQL, Angular, JWT, Hibernate  
+
 🎮 **[Pac-Man Replica (Python + Pygame)](https://github.com/AzaanFatta/Pac-Man-Replica-Game)**  
 A modern recreation of the classic Pac-Man arcade game featuring AI-driven ghosts, collision physics, and a beautiful User Interface.  
 > 🧠 Tech: Python, Pygame, OOP, Collision Detection  
-
-🎬 **AI-Driven Movie Matcher (Spring Boot + Angular)**  
-A full-stack movie recommendation engine powered by **AI/NLP** and **RESTful APIs**.  
-> 🌐 Tech: Java, Spring Boot, MySQL, Angular, JWT, Hibernate  
 
 🏋️ **Fitness Optimization Platform**  
 Real-time calorie tracking & workout generation via 4 integrated REST APIs.  
